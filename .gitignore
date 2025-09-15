@@ -16,3 +16,12 @@ build/
 # Environment files
 .env
 .env.*
+
+# Uploads (agar user images / files yahan save hote hain)
+uploads/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
